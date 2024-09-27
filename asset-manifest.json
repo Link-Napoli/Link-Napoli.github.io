@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.115d876d.css",
-    "main.js": "/static/js/main.35225051.js",
+    "main.js": "/static/js/main.02585cb1.js",
     "static/media/linkna_logo.svg": "/static/media/linkna_logo.b9befb47bc4f097b52dd857f2a932fe6.svg",
     "static/media/linkna_logo_mini.svg": "/static/media/linkna_logo_mini.407262b907004f13344ed70c99bb5953.svg",
     "static/media/scisoc.min.svg": "/static/media/scisoc.min.b65c6ce29b73f7dd1b7ace62a9accec6.svg",
@@ -9,10 +9,10 @@
     "static/media/orientale.min.svg": "/static/media/orientale.min.d06a4b1e5ce76a06736c2e0faa4f78a6.svg",
     "index.html": "/index.html",
     "main.115d876d.css.map": "/static/css/main.115d876d.css.map",
-    "main.35225051.js.map": "/static/js/main.35225051.js.map"
+    "main.02585cb1.js.map": "/static/js/main.02585cb1.js.map"
   },
   "entrypoints": [
     "static/css/main.115d876d.css",
-    "static/js/main.35225051.js"
+    "static/js/main.02585cb1.js"
   ]
 }

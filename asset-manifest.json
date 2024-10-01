@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.dec1cb5b.css",
+    "main.css": "/static/css/main.938698b9.css",
     "main.js": "/static/js/main.361cb04d.js",
     "static/media/linkna_logo.min.svg": "/static/media/linkna_logo.min.e1b6f54dbf50a24ed057cca3ae4873dd.svg",
     "static/media/scisoc.min.svg": "/static/media/scisoc.min.b65c6ce29b73f7dd1b7ace62a9accec6.svg",
@@ -8,11 +8,11 @@
     "static/media/dsu.svg": "/static/media/dsu.6d88630bd7566407f4706b6702ea3453.svg",
     "static/media/orientale.min.svg": "/static/media/orientale.min.d06a4b1e5ce76a06736c2e0faa4f78a6.svg",
     "index.html": "/index.html",
-    "main.dec1cb5b.css.map": "/static/css/main.dec1cb5b.css.map",
+    "main.938698b9.css.map": "/static/css/main.938698b9.css.map",
     "main.361cb04d.js.map": "/static/js/main.361cb04d.js.map"
   },
   "entrypoints": [
-    "static/css/main.dec1cb5b.css",
+    "static/css/main.938698b9.css",
     "static/js/main.361cb04d.js"
   ]
 }
